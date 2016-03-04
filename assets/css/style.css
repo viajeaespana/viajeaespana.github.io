@@ -159,6 +159,21 @@ a {
 #top-nav {
     margin-bottom: 20px;
 }
+/* Lightbox Content */
+
+.clima-content li {
+    text-align: left;
+    font-size: 1.3em;
+    font-family: "Century Gothic";
+    line-height: 30px;
+    list-style-type: circle;
+}
+
+#clima {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
 
 .lightbox {
     width: 100%;
