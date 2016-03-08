@@ -118,7 +118,7 @@ video {
 .lightbox p {
     font-family: "Century Gothic";
     font-size: 1.3em;
-    line-height: 40px;
+    line-height: 30px;
     text-align: center;
     margin-bottom: 40px;
 }
@@ -129,6 +129,71 @@ video {
     margin-top: 5px;
     font-family: "Century Gothic";
     font-weight: bold;
+}
+
+.imgs {
+    width: 90%;
+    height: auto;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img {
+    width: 100px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#img1 {
+    width: 300px;
+    height: 400px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#img2 {
+    width: 700px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#img3 {
+    width: 700px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#img4 {
+    width: 500px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#img5 {
+    width: 500px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.img-wrapper {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.img-wrapper p {
+    margin-bottom: 10px;
+}
+
+#workscited p {
+    text-align: left;
 }
 /* Nav Bar CSS*/
 
@@ -186,6 +251,7 @@ a {
     margin-top: -102px;
     z-index: -99;
     min-height: 350px;
+    text-align: center;
     -webkit-animation: fadein 2s;
     /* Safari, Chrome and Opera > 12.1 */
     
